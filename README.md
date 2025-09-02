@@ -17,6 +17,7 @@ Try Now → Interactive page with robot avatar card
 🎨 Modern UI/UX – Styled with gradients, cards, and responsive layouts
 
 📂 Project Structure
+```text
 Frontend/
 │── app/
 │   ├── (tabs)/
@@ -37,6 +38,7 @@ Frontend/
 │── tsconfig.json              # TypeScript config
 │── README.md                  # Project documentation
 
+```
 🛠️ Installation & Setup
 
 Clone the repository:
